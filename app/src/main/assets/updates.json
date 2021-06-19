@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "updateURL": "https://j2i.net/apps/downloader/updates.json",
+  "assets": [
+    {
+      "url": "",
+      "name": "assetsManifest.json"
+    },
+    {
+      "url": "",
+      "name": "image0.png"
+    },
+    {
+      "url": "",
+      "name": "caption0.txt"
+    }
+  ]
+}
